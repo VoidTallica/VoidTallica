@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hey *VoidTallica* Here!
+
+🏭 I'm currently working as a Full Stack Developer on MES (Manufactoring Executing Systems) software.
+
+🔭 Also developing some side projects, that you can check on my blog.
+
 
 <!--
 **VoidTallica/VoidTallica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
