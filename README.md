@@ -1,7 +1,7 @@
 ## Hey *VoidTallica* Here!
 
-🏭 3 year experience working as a Full Stack Developer on MES (Manufactoring Executing Systems) software.
-	Currently working as a Full Stack Developer on Banking Software
+🏭 3 year experience working as a Full Stack Developer on MES (Manufactoring Executing Systems) software. \
+🏭 Currently working as a Full Stack Developer on Banking Software \
 🔭 Also developing some side projects, that you can check on my blog.
 
 
